@@ -5,4 +5,4 @@ This repo introduces my Xamarin.Forms app (Android, UWP) called WeddingPlanner
 | :---------  | :------------------- | :------------------- |
 | ![](https://github.com/tothpalcsilla/WeddingPlanner_Wiki/blob/main/images/bride.gif) | ![](https://github.com/tothpalcsilla/WeddingPlanner_Wiki/blob/main/images/guest.gif) | ![](https://github.com/tothpalcsilla/WeddingPlanner_Wiki/blob/main/images/supplier.gif)   |  
 
-[User Manual](https://github.com/tothpalcsilla/WeddingPlanner_Wiki/blob/main/WeddingPlanner_UserManual.pdf)
+## [User Manual](https://github.com/tothpalcsilla/WeddingPlanner_Wiki/blob/main/WeddingPlanner_UserManual.pdf)
